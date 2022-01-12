@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I skipped grade 8 math and took grade 9 and grade 10 math instead
 
-![Anthony Vu's Github Stats](https://github-readme-stats.vercel.app/api?username=vua11)
+![Anthony Vu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vua11&show_icons=true&theme=radical)
