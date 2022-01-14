@@ -11,4 +11,4 @@
 
 ![Anthony Vu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vua11&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vua11)](https://github.com/vua11)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vua11&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/vua11)
