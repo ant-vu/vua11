@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> Well, hello there! I'm the one and only, Anthony Vu.</h1>
 
 [![Linkedin](https://img.shields.io/badge/-vua11-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vua11/)](https://www.linkedin.com/in/vua11/)
-[![Website](https://img.shields.io/badge/-vua11-00A82D?style=flat-square&logo=google-chrome&logoColor=white&link=https://vua11.netlify.app)](https://vua11.netlify.app)
+[![Website](https://img.shields.io/badge/-vua11-00A82D?style=flat-square&logo=google-chrome&logoColor=white&link=https://vua11.vercel.app/)](https://vua11.vercel.app/)
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="24"/> My evergrowing tech stack... </h3>
 <p>
