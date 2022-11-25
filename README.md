@@ -1,4 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" />Xin Chào! I am actively searching for summer 2023 internships and genuinely look forward to meeting with you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> Xin Chào!</h1>
+<h3>I am actively searching for summer 2023 internships and genuinely look forward to meeting with you.</h3>
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
