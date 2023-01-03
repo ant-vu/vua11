@@ -1,4 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> Hello!</h1>
 <h3>Anthony is a third-year Computer Science co-op student at McMaster University with a 3.99 GPA. He is currently open to four-month internships for summer 2023 and new grad positions for summer 2024.</h3>
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
