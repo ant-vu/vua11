@@ -1,4 +1,4 @@
-<h3>I am a third-year Computer Science Co-op student at McMaster University with a 3.99 GPA. With over 2 years of work experience in the software development industry, I will surely bring great value and energy to your corporation.</h3>
+<h3>I am a fourth-year Computer Science Co-op student at McMaster University with a 3.96 GPA. With over 2 years of work experience in the software development industry, I will surely bring great value and energy to your corporation.</h3>
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
